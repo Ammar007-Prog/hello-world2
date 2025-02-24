@@ -6,3 +6,6 @@ This repository is built step by step in the tutorial.
 
 test fetch
 
+changes new branch from local to origin
+
+
